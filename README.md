@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SkepSickomode
+- 👀 I’m interested in creating web apps, Discord bots, websites and Python projects.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Discord.js and ideas for webapps.
+- 📫 How to reach me, Discord: <Skep/>#0001.
